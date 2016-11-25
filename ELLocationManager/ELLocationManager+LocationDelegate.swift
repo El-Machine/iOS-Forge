@@ -1,11 +1,4 @@
 //
-//
-//
-//  Created by Alexander Kozin on 21.02.16.
-//  Copyright © 2016 El-Machine. All rights reserved.
-//
-
-//
 // ELLocationManager.swift
 //
 // Created by Alexander Kozin https://github.com/alkozin
